@@ -1,11 +1,11 @@
 :root {
-    --menu-color: #FFFFFF;
-    --background: rgb(255, 255, 255);
-    --title-color: #212121;
-    --section_title-color: #212121;
-    --section_title2-color: #212121;
-    --footer-color: #2F303A;
+    --menu-color:#FFFFFF;
+    --background:rgb(255, 255, 255);
+    --title-color:#212121;
+    --section_title-color:#212121;
+    --footer-color:#2F303A;
 }
-body {
-    background-color: var(--background);
+:root {
+  --main-font: "Roboto", sans-serif;
+  --second-font: "Raleway", sans-serif;
 }
