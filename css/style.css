@@ -9,3 +9,7 @@
   --main-font: "Roboto", sans-serif;
   --second-font: "Raleway", sans-serif;
 }
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
